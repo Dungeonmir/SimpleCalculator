@@ -1,0 +1,10 @@
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\Sergo\GitHub\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculator.resources
